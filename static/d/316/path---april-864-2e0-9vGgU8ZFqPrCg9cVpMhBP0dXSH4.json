@@ -1,0 +1,1 @@
+{"errors":[{"message":"Cannot query field \"category\" on type \"racesResults\".","locations":[{"line":13,"column":9}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"month":4}}
